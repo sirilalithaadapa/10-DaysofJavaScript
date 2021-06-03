@@ -1,13 +1,3 @@
-
-// ========================
-//         Solution
-// ========================
-
-// Calculate the area of a rectangle.
-// length: The length of the rectangle.
-// Width: The width of the rectangle.
-// Return a number denoting the rectangle's area.
-
 function getArea(length, width) {
     return length*width;
 }
