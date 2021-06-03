@@ -1,5 +1,4 @@
-# 10-DaysofJavaScript
-In HackerRank i have started my JavaScript Challenge 
+
 # 10 Days of JavaScript
 
 |  Day  |            Challenge             |                                       Problem                                       | Difficulty | Score |                                                     Solution                                                      |
