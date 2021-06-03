@@ -27,4 +27,5 @@ function main() {
     const score = +(readLine());
     
     console.log(getGrade(score));
+    
 }
