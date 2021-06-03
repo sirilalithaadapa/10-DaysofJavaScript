@@ -23,3 +23,4 @@ function main() {
     
     console.log(getLetter(s));
 }
+
